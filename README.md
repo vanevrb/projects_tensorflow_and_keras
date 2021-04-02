@@ -70,3 +70,7 @@ TensorFlow programming is essentially a two-step process:
 
 - **`Simple_Linear_Model:`**
 <https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model.ipynb>
+
+- **`Tensor2Tensor:`**
+<https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb#scrollTo=s19ucTii_wYb>
+
