@@ -1,4 +1,4 @@
-### TensorFlow
+### TensorFlow 
 
 Learn the basics of the TensorFlow programming model, focusing on the following concepts:
 - tensors
@@ -62,3 +62,11 @@ TensorFlow programming is essentially a two-step process:
 
   1. Assemble constants, variables, and operations into a graph.
   2. Evaluate those constants, variables and operations within a session.
+
+### TensorFlow Bibliography
+
+- **`tensorflow_programming_concepts:`**
+<https://colab.research.google.com/notebooks/mlcc/tensorflow_programming_concepts.ipynb#scrollTo=NzKsjX-ufyVY>
+
+- **`Simple_Linear_Model:`**
+<https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model.ipynb>
